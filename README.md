@@ -41,10 +41,9 @@ Jenkins DSL:-
 		- Version control, history, audit log, easier job restore when something goes wrong.
 ********************************************************************************************************************************************************************
 
-
-Pre-request:- install job DSL plug-in
-
-
+# Pre-request:- 
+	install job DSL plug-in
+	
 Step01: Create new Freestyle job as "Seed_Job".
 Step02: within seed job, under Build tab choose "Use provided DSL script"
 Step03: Write DSL Script,
