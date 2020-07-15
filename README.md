@@ -45,8 +45,10 @@ Jenkins DSL:-
 	install job DSL plug-in
 	
 Step01: Create new Freestyle job as "Seed_Job".
-Step02: within seed job, under Build tab choose "Use provided DSL script"
-Step03: Write DSL Script,
+
+Step02: within seed job, under Build tab choose "Use provided DSL script".
+
+Step03: Write DSL Script.
 			
 			step1: create a job
 					
